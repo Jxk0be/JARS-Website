@@ -14,7 +14,7 @@
     }
 </script>
 
-<div class="flex flex-row items-center justify-between flex-nowrap z-20 fixed w-full bg-red-200 h-[8vh]">
+<div class="flex flex-row items-center justify-between flex-nowrap z-20 fixed w-full bg-teal-100 h-[8vh]">
     <!-- Section for the logo/name once that is all figured out -->
     <div class="ml-6 md:ml-12 font-['Raleway'] font-bold text-xl">
         <a on:click={() => CloseMenu()} href="/" class="hover:text-[#00C896] transition ease-in-out duration-250 cursor-pointer mx-4"><h1>JARS</h1></a>
@@ -45,7 +45,7 @@
 </div>
 
 {#if mobileMenu}
-    <div class="text-black font-['Raleway'] font-medium text-3xl fixed top-0 left-0 flex flex-col items-center justify-center text-center w-full h-screen bg-white md:hidden">
+    <div class="text-black font-['Raleway'] font-medium text-3xl fixed top-0 left-0 flex flex-col items-center justify-center text-center w-full h-screen bg-white md:hidden z-10">
         <a on:click={() => HandleMenu()} href="/" class="my-4 mx-4 hover:text-[#00C896] transition ease-in-out duration-250 cursor-pointer"><h1>Home</h1></a>
         <a on:click={() => HandleMenu()} href="/about" class="my-4 mx-4 hover:text-[#00C896] transition ease-in-out duration-250 cursor-pointer"><h1>About</h1></a>
         <a on:click={() => HandleMenu()} href="/events" class="my-4 mx-4 hover:text-[#00C896] transition ease-in-out duration-250 cursor-pointer"><h1>Events</h1></a>
