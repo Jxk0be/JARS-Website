@@ -14,7 +14,7 @@
     }
 </script>
 
-<div class="flex flex-row items-center justify-between flex-nowrap z-20 fixed w-full bg-teal-100 h-[8vh]">
+<div class="flex flex-row items-center justify-between flex-nowrap z-20 fixed w-full bg-teal-100/90 backdrop-blur h-[8vh]">
     <!-- Section for the logo/name once that is all figured out -->
     <div class="ml-6 md:ml-12 font-['Raleway'] font-bold text-xl">
         <a on:click={() => CloseMenu()} href="/" class="hover:text-[#00C896] transition ease-in-out duration-250 cursor-pointer mx-4"><h1>JARS</h1></a>
