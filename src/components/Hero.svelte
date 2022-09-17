@@ -3,9 +3,6 @@
 </script>
 
 <div class="pt-[8vh] z-0 w-full h-[60vh] flex flex-col justify-center items-center text-center bg-slate-100 relative">
-    <video autoplay loop muted plays-inline class="absolute top-0 right-0 z-10 w-full h-full object-cover pt-[8vh]">
-        <source src="src/Images/video.webm" >
-    </video>
     <div class="z-20">
         <h1 class="md:text-6xl font-bold text-[37px] md:mx-[122px] gamer">Japanese Animanga Research Society</h1>
         <div class="flex flex-row justify-center items-center md:text-3xl text-xl md:font-bold font-bold font-['Raleway'] gamer">

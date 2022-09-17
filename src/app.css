@@ -26,7 +26,3 @@ img {
 .no_wrap {
     white-space: nowrap;
 }
-.gamer {
-    filter: drop-shadow(30px, 30px, 0.9, black);
-    color: white;
-}
