@@ -25,7 +25,7 @@
                 </a>
             </div>
             <div class="bg-[#1B1B1B] w-[350px] h-[50px] flex justify-center items-center">
-                <h1 class="text-xl font-semibold uppercase">Strong Hall B1 at 8 pm</h1>
+                <h1 class="text-xl font-semibold uppercase">Strong Hall B1 at 7:30</h1>
             </div>
         </div>
 
@@ -48,7 +48,7 @@
                 </a>
             </div>
             <div class="bg-[#1B1B1B] w-[350px] h-[50px] flex justify-center items-center">
-                <h1 class="text-xl font-semibold uppercase">Strong Hall B1 at 8 pm</h1>
+                <h1 class="text-xl font-semibold uppercase">Strong Hall B1 at 7:30</h1>
             </div>
         </div>
         
