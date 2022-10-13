@@ -6,6 +6,8 @@
 html {
     font-family: 'Ubuntu', sans-serif;
     scroll-behavior: smooth;
+    background-color:#1e2124;
+    color: white;
 }
 body {
     padding: 0;

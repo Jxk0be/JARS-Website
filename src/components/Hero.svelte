@@ -2,7 +2,7 @@
     import Typewriter from 'svelte-typewriter'
 </script>
 
-<div class="pt-[8vh] z-0 w-full h-[60vh] flex flex-col justify-center items-center text-center bg-slate-100 relative">
+<div class="pt-[8vh] z-0 w-full h-[60vh] flex flex-col justify-center items-center text-center bg-[#282b30] relative">
     <div class="z-20">
         <h1 class="md:text-6xl font-bold text-[37px] md:mx-[100px] gamer uppercase">Japanese Animanga Research Society</h1>
         <div class="flex flex-row justify-center items-center md:text-3xl text-xl md:font-bold font-bold font-['Raleway'] gamer">
