@@ -6,7 +6,7 @@
 html {
     font-family: 'Ubuntu', sans-serif;
     scroll-behavior: smooth;
-    background-color:#1e2124;
+    background-color: black;
     color: white;
 }
 body {
@@ -27,4 +27,12 @@ img {
 /* Custom classes (not in TailwindCSS) */
 .no_wrap {
     white-space: nowrap;
+}
+
+.card {
+    filter: drop-shadow(0px 0px 8px rgba(230, 36, 15, 0.7))
+}
+
+.type {
+    filter: drop-shadow(0px 0px 5px rgba(250, 235, 44, 0.7))
 }
