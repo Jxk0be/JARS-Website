@@ -4,11 +4,11 @@
     import Logo3 from '../Images/rand_logo_3.png'
     import Logo4 from '../Images/rand_logo_4.png'
 </script>
-<div class="w-full bg-black flex flex-col items-center text-center mt-[10vh] z-0 mb-[10vh]">
-    <h1 class="font-bold text-[27px] md:text-[35px] uppercase">Organization Announcements</h1>
+<div class="w-full bg-white flex flex-col items-center text-center mt-[10vh] z-0 mb-[10vh]">
+    <h1 class="font-bold text-[27px] md:text-[35px] uppercase text-black">Organization Announcements</h1>
     <div class="grid grid-cols-1 gap-y-14 md:grid-cols-2 md:px-[4vw] lg:px-[15vw] w-full h-full mt-[4vh] font-['Raleway']">
         
-        <div class="flex flex-col md:hover:scale-105 transition ease-in-out duration-200 items-center justify-center w-full z-20">
+        <div class="flex flex-col md:hover:scale-105 transition ease-in-out duration-200 items-center justify-center w-full z-20 drop-shadow-[-5px_15px_15px_rgba(0,0,0,0.45)]">
             <div class="bg-[#36393e] md:hover:bg-[#282b30] duration-200 transition ease-in-out w-[350px] h-[400px] relative">
                 <a href="https://volink.utk.edu/organization/jars" target="_blank">
                     <img src={Logo3} alt="logo" class="absolute w-1/5 bottom-[340px] left-[290px] rounded-[50px] drop-shadow-[-5px_15px_15px_rgba(0,0,0,0.45)]"/>
@@ -31,7 +31,7 @@
             </div>
         </div>
 
-        <div class="flex flex-col md:hover:scale-105 transition ease-in-out duration-200 items-center justify-center w-full z-10">
+        <div class="flex flex-col md:hover:scale-105 transition ease-in-out duration-200 items-center justify-center w-full z-10 drop-shadow-[-5px_15px_15px_rgba(0,0,0,0.45)]">
             <div class="bg-[#36393e] md:hover:bg-[#282b30] duration-200 transition ease-in-out w-[350px] h-[400px] relative">
                 <a href="https://volink.utk.edu/organization/jars" target="_blank">
                     <img src={Logo4} alt="logo" class="absolute w-1/5 bottom-[340px] left-[290px] rounded-[50px] drop-shadow-[-5px_15px_15px_rgba(0,0,0,0.45)]"/>
