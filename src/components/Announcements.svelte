@@ -4,7 +4,7 @@
     import Logo3 from '../Images/rand_logo_3.png'
     import Logo4 from '../Images/rand_logo_4.png'
 </script>
-<div class="w-full bg-white flex flex-col items-center text-center mt-[10vh] z-0 mb-[10vh]">
+<div class="w-full bg-white flex flex-col items-center text-center mt-[10vh] z-0 pb-[10vh]">
     <h1 class="font-bold text-[27px] md:text-[35px] uppercase text-black">Organization Announcements</h1>
     <div class="grid grid-cols-1 gap-y-14 md:grid-cols-2 md:px-[4vw] lg:px-[15vw] w-full h-full mt-[4vh] font-['Raleway']">
         
