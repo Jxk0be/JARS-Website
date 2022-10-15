@@ -5,7 +5,7 @@
 </script>
 
 
-<div class="h-[92vh] w-full ">
+<div class="h-[92vh] w-full">
     <video class="object-cover h-full w-full absolute z-10" src={heroVid2} autoplay loop muted />
     <div class="z-20 w-full h-[100vh] flex flex-col justify-center items-center text-center bg-black/30 absolute">
         <div class="z-20">
