@@ -5,8 +5,9 @@
 <script>
     import Navbar from '/src/components/Navbar.svelte'
     import Footer from '/src/components/Footer.svelte'
+    import FAQs from '/src/components/FAQs.svelte'
 </script>
 
 <Navbar />
-<h1>FAQ page</h1>
+<FAQs />
 <Footer />
