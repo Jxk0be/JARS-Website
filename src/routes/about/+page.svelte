@@ -18,14 +18,22 @@
                     <h1 class="text-lg font-medium mb-6">Made by JARS</h1>
                     <div class="mx-5 text-xl font-medium text-start">
                         <p class="mb-3">
-                            Ohayō おはよう and welcome to the best anime club on campus. JARS is the Japanese Anime “Research” Society—we don’t actually do research though. Here you can chat and relax with people of culture—weebs. Together we’ll watch the newest anime, hang out for mini field trips (rides provided), and share (and roast) our favorite anime and manga. If you’re looking for a chill, cat-loving club to network with people who share a love for Japanese entertainment, join J.A.R.S! 
+                            Ohayō おはよう and welcome to the best anime club on campus. 
+                            JARS is the Japanese Anime “Research” Society—we don’t 
+                            actually do research though. Here you can chat and 
+                            relax with people of culture—weebs. Together we’ll 
+                            watch the newest anime, hang out for mini field trips 
+                            (rides provided), and share (and roast) our favorite 
+                            anime and manga. If you’re looking for a chill, cat-loving 
+                            club to network with people who share a love for Japanese 
+                            entertainment, join JARS! 
                             <br><br>
                             ♡∩_∩ <br>
                             （„• ֊ •„)♡<br>
                             ┏━∪∪━━━━┓
                             <br>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            &nbsp;&nbsp;&nbsp;join us<br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a class="hover:text-[#f51f43] text-[#E94560]" href="https://discord.com/invite/eQfNkfs9pT" target="_blank">our discord</a><br>
                             ┗━━━━━━┛
                         </p>
                     </div>
