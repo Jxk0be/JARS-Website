@@ -8,7 +8,7 @@
 </script>
 
 <Navbar />
-<div class="w-full h-full text-black flex flex-col items-center text-center bg-white pb-[10vh]">
+<div class="w-full h-full text-black flex flex-col items-center text-center bg-white pb-[7vh]">
     <h1 class="font-bold text-[27px] md:text-[35px] uppercase mt-[10vh]">About JARS</h1>
     <div class="grid text-white grid-cols-1 gap-y-14 md:px-[4vw] lg:px-[15vw] w-full h-full mt-[3vh] font-['Raleway']">
 
