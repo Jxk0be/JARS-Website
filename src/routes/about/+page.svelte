@@ -41,7 +41,7 @@
                     </div>
             </div>
             <div class="bg-[#282b30] w-[350px] h-[50px] md:w-[700px] flex justify-center items-center">
-                <h1 class="text-xl font-semibold uppercase">Strong Hall 126 at 7:30</h1>
+                <h1 class="text-xl font-semibold uppercase">INSERT NUTS OR NOTHING LOGO</h1>
             </div>
         </div>
     </div>
