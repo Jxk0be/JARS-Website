@@ -10,8 +10,6 @@
 
 <Navbar />
 <div class="w-full h-full text-black flex flex-col items-center text-center bg-white pb-[10vh]">
-    <!-- svelte-ignore a11y-img-redundant-alt -->
-    <!-- <img class="object-cover h-full w-full absolute z-10" src={image} alt="bg-image" /> -->
     <h1 class="font-bold text-[27px] md:text-[35px] uppercase mt-[10vh]">About JARS</h1>
     <div class="grid text-white grid-cols-1 gap-y-14 md:px-[4vw] lg:px-[15vw] w-full h-full mt-[3vh] font-['Raleway']">
 
@@ -38,13 +36,13 @@
                             ┏━━━━━━━┓
                             <br>
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a class="hover:text-[#f51f43] underline text-[#E94560]" href="https://discord.com/invite/eQfNkfs9pT" target="_blank">our discord</a><br>
+                            <a class="hover:text-[#f51f43] underline font-bold text-[#E94560]" href="https://discord.com/invite/eQfNkfs9pT" target="_blank">our discord</a><br>
                             ┗━━━━━━━┛
                         </p>
                     </div>
             </div>
             <div class="bg-[#282b30] w-[350px] h-[50px] md:w-[700px] flex justify-center items-center">
-                <h1 class="text-xl font-semibold uppercase">INSERT NUTS OR NOTHING LOGO</h1>
+                <h1 class="text-xl font-semibold uppercase">Swing by and meet us</h1>
             </div>
         </div>
     </div>
