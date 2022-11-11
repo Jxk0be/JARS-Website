@@ -31,7 +31,7 @@
                             would like to talk directly to the president, please use this email.
                         </p>
                         <div class="flex justify-center flex-col items-center">
-                            <h1 class="pb-[4vh] text-center"><span class="underline">President Email</span> - ubasu1@utk.edu</h1>
+                            <h1 class="pb-[4vh] text-center"><span class="underline">Pres. Email</span> - ubasu1@utk.edu</h1>
                         </div>
 
                         <p class="pb-[1vh]">
