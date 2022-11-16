@@ -26,8 +26,7 @@
         <a href="/about" class=" hover:text-[#E94560] transition ease-in-out duration-150 cursor-pointer mx-4"><h1>About</h1></a>
         <a href="/events" class=" hover:text-[#E94560] transition ease-in-out duration-150 cursor-pointer mx-4"><h1>Events</h1></a>
         <a href="/faq" class=" hover:text-[#E94560] transition ease-in-out duration-150 cursor-pointer mx-4"><h1>FAQ</h1></a>
-        <a href="/contact" class=" hover:text-[#E94560] transition ease-in-out duration-150 cursor-pointer mx-4"><h1>Contact</h1></a>
-        <a href="/support" class=" hover:text-[#E94560] transition ease-in-out duration-150 cursor-pointer ml-4 mr-12"><h1>Support Us</h1></a>
+        <a href="/contact" class=" hover:text-[#E94560] transition ease-in-out duration-150 cursor-pointer ml-4 mr-12"><h1>Contact</h1></a>
     </div>
 
     <!-- Rest of this div is for the mobile/small sized screens -->
